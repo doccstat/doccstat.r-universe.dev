@@ -2,5 +2,9 @@
     {
         "package": "fastcpd",
         "url": "https://github.com/doccstat/fastcpd"
+    },
+    {
+        "package": "abseil",
+        "url": "https://github.com/doccstat/abseil-r"
     }
 ]
